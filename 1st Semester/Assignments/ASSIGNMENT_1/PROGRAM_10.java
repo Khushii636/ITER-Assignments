@@ -5,8 +5,6 @@
        * 1 2 1 3 1 2 1
        * 1 2 1 3 1 2 1 4 1 2 1 3 1 2 1
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 public class PROGRAM_10 {

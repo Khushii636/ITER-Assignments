@@ -6,8 +6,6 @@
    * e)System.out.println("92"+7+5);
    * f)System.out.println(2+"9");
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 public class PROGRAM_9 {

@@ -9,8 +9,6 @@
 *       The surface area of the hemisphere is 461.814 
 *       The volume area of the hemisphere is 718.377
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 import java.util.*;

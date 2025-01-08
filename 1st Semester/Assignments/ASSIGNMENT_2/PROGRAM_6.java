@@ -8,8 +8,6 @@
 *        Distance travelled: 469.096
 
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 import java.util.*;

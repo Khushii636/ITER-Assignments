@@ -7,8 +7,6 @@
 *     Enter a number between 0 and 1000: 999 
 *     The sum of the digits is 27
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 import java.util.*;

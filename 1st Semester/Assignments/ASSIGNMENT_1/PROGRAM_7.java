@@ -1,7 +1,5 @@
 /*Write a Java program to exchange the values of two variables of integer type X and Y using third temporary variable Z
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 public class PROGRAM_7 {

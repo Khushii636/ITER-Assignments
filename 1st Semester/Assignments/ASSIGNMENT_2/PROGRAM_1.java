@@ -6,8 +6,6 @@
 *    Enter a degree in Fahrenheit: 54 
 *    54 Fahrenheit is 12.22 Celsius
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 import java.util.*;

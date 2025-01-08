@@ -7,8 +7,6 @@ integers.
  * 4  5  1024
  * 5  6  15625
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 import java.util.*;

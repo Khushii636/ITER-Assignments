@@ -3,8 +3,6 @@
             *     *     *      
             *******     *******
  * Author: Khushi Choudhary
- * Regd No: 24108301
- * Section: 24E1B2
  * Branch: CSE
  */
 public class PROGRAM_2 {
