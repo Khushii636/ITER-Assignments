@@ -18,15 +18,15 @@ public class Q6 {
 		System.out.print("Enter the number: ");
 		int n=in.nextInt();
 		if(isOdd(n))
-		System.out.println(n+" is an even number");
+		System.out.println(n+" is an odd number");
 		else
-			System.out.println(n+" is a odd number");
+			System.out.println(n+" is an even number");
 	}
 	public static boolean isOdd(int i)
 	{
 		if(i/2.0 == i/2)
-			return true;
-		else 
 			return false;
+		else 
+			return true;
 	}
 }
