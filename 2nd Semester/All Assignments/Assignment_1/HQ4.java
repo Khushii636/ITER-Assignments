@@ -41,14 +41,21 @@ public class HQ4 {
         }
         public static double[][] addMatrix(double[][] a, double[][] b) 
         {
-            double add[][]=new double[a.length][a[0].length];
-            for(int i=0;i<a.length;i++)
-            {
-                for(int j=0;j<a[0].length;j++)
+            int row=a.length;
+            int col=a[0].length;
+            double add[][]=new double[row][col];
+            if(row!=b.length || col!=b[0].length)
+            System.out.println("Cant be added");
+            else{
+                for(int i=0;i<a.length;i++)
                 {
-                    add[i][j]=a[i][j]+b[i][j];
+                    for(int j=0;j<a[0].length;j++)
+                    {
+                        add[i][j]=a[i][j]+b[i][j];
+                    }
                 }
             }
+            
             return add;
         }  
 }

@@ -1,6 +1,14 @@
-/*
-             
-
+/*Define a class Car with two instance variables: model and year 
+Two member methods are: 
+• setDetails(): Set the details of the car. 
+• displayDetails(): Display the details of the car. 
+Now, create two objects of the Car class: 
+• Initialize the first object's values directly (by using the dot. operator) with model: "Toyota" and year: 
+2020. 
+• Accept the model and year through the keyboard input and set them to another object using the 
+setDetails() method. 
+Now, display the details of both cars using the displayDetails() method.  
+Also, check which car is newer.       
  */
 import java.util.*;
 
