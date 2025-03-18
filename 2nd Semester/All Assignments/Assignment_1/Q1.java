@@ -3,11 +3,6 @@
   Sample Run:
              The positive integer greater than 2 from command line argument is 67.
              The number of times one must repeatedly divide this number by 2 before getting a value less than 2 is 5.
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q1 {

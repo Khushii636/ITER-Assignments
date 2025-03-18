@@ -7,11 +7,6 @@
        2 3 4
        3 4 5
        The sum of elements of the 2D-Array is 27
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q8 {

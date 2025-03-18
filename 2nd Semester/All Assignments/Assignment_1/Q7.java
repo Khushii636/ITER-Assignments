@@ -8,11 +8,6 @@ Maximum element of Array is 14 and occurs 2 times.
 Minimum element of Array is 12 and occurs 2 times.
 First occurrence of maximum element is at position 2.
 Last occurrence of minimum element is at position 3.
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q7 {

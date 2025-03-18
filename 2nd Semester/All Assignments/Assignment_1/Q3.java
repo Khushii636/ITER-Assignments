@@ -8,11 +8,6 @@
         Sample Run:
             Enter a number: 1124
             1124 is a spy number.
-            
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q3 {

@@ -7,11 +7,6 @@
      Sample Run:
       Enter a number 9294
       Sum of digits of 9294 until the number is a single digit is 6
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q5a {

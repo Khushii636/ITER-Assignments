@@ -4,11 +4,6 @@
           Sample Run:
             Enter a number 37
             37 is odd: true
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q6 {

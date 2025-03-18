@@ -4,11 +4,6 @@
           Sample Run:
             Enter a number 37
             37 is odd: true
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q6a {
@@ -20,7 +15,7 @@ public class Q6a {
 		if(isOdd(n))
 		System.out.println(n+" is an odd number");
 		else
-			System.out.println(n+" is a even number");
+			System.out.println(n+" is an even number");
 	}
 	public static boolean isOdd(int i)
 	{

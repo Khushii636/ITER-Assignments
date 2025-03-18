@@ -10,39 +10,24 @@
                 Sum of the elements at column 1 is 9.0
                 Sum of the elements at column 2 is 13.0
                 Sum of the elements at column 3 is 13.0
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q10 {
 
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
-		System.out.print("Enter number of Row and Columns of 2D-Array: ");
-		int r=in.nextInt();
-		int c=in.nextInt();
 		double s=0;
-		double arr[][]=new double[r][c];
-		System.out.print("Enter a "+r+"-by-"+c+" matrix row by row:");
-		for(int i=0;i<r;i++)
+		double arr[][]=new double[3][4];
+		System.out.print("Enter a 3-by-4 matrix row by row:");
+		for(int i=0;i<3;i++)
 			{
-			for(int j=0;j<c;j++)
+			for(int j=0;j<4;j++)
 				{
 				arr[i][j]=in.nextDouble();
 				}
 			}
-		for(int i=0;i<r;i++)
-		{
-		for(int j=0;j<c;j++)
-			{
-			System.out.print(arr[i][j]+" ");
-			}
-		System.out.println();
-		}
-		for (int k=0;k<c;k++)
+		
+		for (int k=0;k<4;k++)
 		{
 			s=sumColumn(arr,k);
 			System.out.println("Sum of the elements at column "+k+" is "+s);

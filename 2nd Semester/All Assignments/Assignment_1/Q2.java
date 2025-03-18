@@ -17,11 +17,6 @@ Sample Run-2:
 Enter person Weight in kg: 96
 Enter height of person in meter: 1.4
 The person is Obese
-
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q2 {

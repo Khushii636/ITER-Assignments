@@ -1,4 +1,4 @@
-/*Write a method that sums all the numbers in the major diagonal in an n * n matrix of double values using the following header:
+ /*Write a method that sums all the numbers in the major diagonal in an n * n matrix of double values using the following header:
      public static double sumMajorDiagonal(double[][] m)
   Write a java program that reads a 4-by-4 matrix and displays the sum of all its elements on the major diagonal. 
      Sample Run:
@@ -8,11 +8,6 @@
         9 10 11 12
         13 14 15 16
         Sum of the elements in the major diagonal is 34.5
-             
- * Author: Khushi Choudhary
- * Regd No: 24E103A30
- * Section: 24E1B2
- * Branch: CSE
  */
 import java.util.*;
 public class Q9 {
@@ -31,14 +26,7 @@ public class Q9 {
 				arr[i][j]=in.nextDouble();
 				}
 			}
-		for(int i=0;i<r;i++)
-		{
-		for(int j=0;j<c;j++)
-			{
-			System.out.print(arr[i][j]+" ");
-			}
-		System.out.println();
-		}
+		
 		System.out.println("Sum of the elements in the major diagonal is "+sumMajorDiagonal(arr));
 	}
 	
